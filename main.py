@@ -4,7 +4,7 @@
 
 ## This CLI is based on a youtube video guide, and implements a
 ## simple client-server with OpenAI's API for chatgpt. This version
-## only works with API version <1.0.0 and it's NOT mean for
+## only works with API version >1.0.0 and it's NOT mean for
 ## commercial use.
 
 
